@@ -27,11 +27,17 @@ Análise dos países com os maiores casos relacionados aos acidentes que ocorrer
 # Steps
 
   Importar bibliotecas
+  
   Ler arquivo csv
+  
   Obter informações da tabela
+  
   Tratamento nome das colunas
+  
   Remover colunas desnecessárias 
+  
   Tratamento dos valores nulos
+  
   Plotar gráficos
   
 
