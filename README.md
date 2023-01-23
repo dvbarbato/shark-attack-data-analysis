@@ -4,9 +4,9 @@
 
   Project status(Active)
   
-# Project objective
+# Objetivo do Projeto
 
-Analise dos países com os maiores casos relacionados aos acidentes que ocorreram em detrimento as atividades marinhas principalmente em países banhados pelo Oceano Índico. 
+Análise dos países com os maiores casos relacionados aos acidentes que ocorreram em detrimento as atividades marinhas principalmente em países banhados pelo Oceano Índico. 
 
 # Métodos
 
@@ -20,7 +20,7 @@ Analise dos países com os maiores casos relacionados aos acidentes que ocorrera
   - Pandas
   - Regular Expression
   
-# Project Description
+# Descrição do Projeto
 
    Tabela de incidentes de ataque de tubarão compilada pelo Global Shark Attack contendo 25723 linhas e 24 colunas)
 
@@ -35,7 +35,7 @@ Analise dos países com os maiores casos relacionados aos acidentes que ocorrera
   Plotar gráficos
   
 
-# Conclusion
+# Conclusão
 
 - Países com maiores números de casos foram USA, Austrália e África Sul 
 - Maioria dos acidentes ocorreram nas atividades de surf, pesca, natação e mergulho. 
